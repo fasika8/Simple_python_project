@@ -1,2 +1,2 @@
-username = input("Enter username:")
-print("Username is: " + username)
+print("Team Information")
+print("Abraham Shiferaw")
